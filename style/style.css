@@ -66,3 +66,32 @@ nav ul li{
     font-weight: bold;
     margin-bottom: 37px;
 }
+/*main style*/
+main{
+    margin: 58px 149px 58px 151px;
+}
+/*action style*/
+.action{
+    display: flex;
+    justify-content: space-around;
+}
+.action-title{
+    color:#252432;
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 23px;
+}
+.action-content{
+    text-align: left;
+    margin-top: 100px;
+    margin-right: 220px;
+}
+.action-description{
+    color: rgba(37, 36, 50, 0.5);
+    font-weight: normal;
+    font-size: 24px;
+    margin-bottom: 23px;
+}
+.pic{
+    border-radius: 48px;
+}
