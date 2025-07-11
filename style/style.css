@@ -131,3 +131,49 @@ main{
 
 }
 
+/*get in touch*/
+.get{
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.in{
+    text-align: left;
+    font-size: 97px;
+    font-weight: bold;
+    padding: 200px 612px 200px 0px;
+}
+.touch{
+    height: 490px;
+    width: 497px;
+    margin: 163px 0px 71px 155px;
+}
+.item{
+    margin-bottom: 19px;
+    border-radius: 10px;
+
+}
+
+/*footer*/
+
+.last{
+    text-align: center;
+    padding: 104px 455px 103px 454px;
+}
+.last-tittle{
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight:bolder;
+}
+.last-description{
+    color: #8987a1;
+    
+}
+.last-element{
+
+    display:flex;
+    justify-content:space-around;
+    color: #8987A1;
+
+}
